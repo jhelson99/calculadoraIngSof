@@ -1,4 +1,4 @@
-.btnA{
+.btn1{
     color: #0099CC; 
     background: transparent; 
     border: 2px solid #0099CC;
@@ -17,12 +17,12 @@
     background-color: white; 
     color: black; 
  }
-.btnA:hover {
+.btn1:hover {
      background-color: #008CBA;
      color: white;
 }
 
-.btnB{
+.btn2{
     color: #0099CC; 
     background: transparent; 
     border: 2px solid #0099CC;
@@ -41,11 +41,11 @@
     background-color: white; 
     color: black; 
  }
-.btnB:hover {
+.btn2:hover {
      background-color: #008CBA;
      color: white;
 }
-.btnC{
+.btn3{
     color: #0099CC; 
     background: transparent; 
     border: 2px solid #0099CC;
@@ -63,7 +63,7 @@
     background-color: white; 
     color: black; 
  }
-.btnC:hover {
+.btn3:hover {
      background-color: #008CBA;
      color: white;
 }
