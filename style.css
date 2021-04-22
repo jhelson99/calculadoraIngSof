@@ -1,0 +1,179 @@
+.btnA{
+    color: #0099CC; 
+    background: transparent; 
+    border: 2px solid #0099CC;
+    border-radius: 6px; 
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    margin-right: 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: white; 
+    color: black; 
+ }
+.btnA:hover {
+     background-color: #008CBA;
+     color: white;
+}
+
+.btnB{
+    color: #0099CC; 
+    background: transparent; 
+    border: 2px solid #0099CC;
+    border-radius: 6px; 
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    margin-right: 4px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: white; 
+    color: black; 
+ }
+.btnB:hover {
+     background-color: #008CBA;
+     color: white;
+}
+.btnC{
+    color: #0099CC; 
+    background: transparent; 
+    border: 2px solid #0099CC;
+    border-radius: 6px; 
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: white; 
+    color: black; 
+ }
+.btnC:hover {
+     background-color: #008CBA;
+     color: white;
+}
+.btnD{
+    color: #0099CC; 
+    background: transparent; 
+    border: 2px solid #0099CC;
+    border-radius: 6px; 
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: white; 
+    color: black; 
+ }
+.btnD:hover {
+     background-color: #008CBA;
+     color: white;
+}
+.btnSumar{
+    background: transparent; 
+    border-radius: 6px; 
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #f01717;
+ }
+.btnSumar:hover {
+     background-color: #f01717;
+     color: white;
+}
+.btnIgual{
+    background: transparent; 
+    border-radius: 6px; 
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: white; 
+    color: black; 
+    border: 2px solid  #06c200;
+ }
+.btnIgual:hover {
+     background-color:  #06c200;
+     color: white;
+}
+.btnLimpiar{
+    background: transparent; 
+    border: 2px solid #ff8614;
+    border-radius: 6px; 
+    padding: 2px 90px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: white; 
+    color: black; 
+ }
+.btnLimpiar:hover {
+     background-color: #ff8614;
+     color: white;
+}
+
+
+.textResp{
+    font-size: 25px;
+    width: 260px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: cursive;
+    border-color: gray;
+    margin-bottom: 10px;
+}
+.textResp:focus{
+    font-size: 25px;
+    width: 260px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: cursive;
+    border-color: gray;
+    margin-bottom: 10px;
+}
+.divContenedor{
+     padding-top: 170px;
+     padding-left: 100px;
+}
+            
